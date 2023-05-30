@@ -1,5 +1,7 @@
 # vue-kuliner
 
+-- This project still develop ---
+
 ## Project setup
 ```
 npm install
